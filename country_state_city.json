@@ -1,0 +1,197 @@
+[
+ {
+  "id":"1",
+  "name":"Tier A",
+  "parent_id":"0"
+  }, 
+ {
+  "id":"2",
+  "name":"Tier B",
+  "parent_id":"0"
+ }, 
+ {
+  "id":"3",
+  "name":"Tier C",
+  "parent_id":"0"
+ }, 
+ {
+  "id":"4",
+  "name":"Apple",
+  "parent_id":"1"
+ }, 
+ {
+  "id":"5",
+  "name":"Samsung",
+  "parent_id":"1"
+ }, 
+ {
+  "id":"6",
+  "name":"Huawei",
+  "parent_id":"1"
+ }, 
+ {
+  "id":"7",
+  "name":"Apple",
+  "parent_id":"2"
+ }, 
+ {
+  "id":"8",
+  "name":"Samsung",
+  "parent_id":"2"
+ }, 
+ {
+  "id":"9",
+  "name":"Apple",
+  "parent_id":"3"
+ }, 
+ {
+  "id":"10",
+  "name":"Samsung",
+  "parent_id":"3"
+ }, 
+ {
+  "id":"11",
+  "name":"iPhone X",
+  "parent_id":"4"
+ }, 
+ {
+  "id":"12",
+  "name":"iPhone 8+",
+  "parent_id":"4"
+ }, 
+ {
+  "id":"13",
+  "name":"iPhone 7+",
+  "parent_id":"4"
+ }, 
+ {
+  "id":"14",
+  "name":"Samsung Edge",
+  "parent_id":"5"
+ }, 
+ {
+  "id":"15",
+  "name":"Samsung Note 3",
+  "parent_id":"5"
+ }, 
+ {
+  "id":"16",
+  "name":"Samsung Note 2",
+  "parent_id":"5"
+ }, 
+ {
+  "id":"17",
+  "name":"Huawei P9",
+  "parent_id":"6"
+ }, 
+ {
+  "id":"18",
+  "name":"Huawei Y7",
+  "parent_id":"6"
+ }, 
+ {
+  "id":"19",
+  "name":"Huawei Y9",
+  "parent_id":"6"
+ }, 
+ {
+  "id":"20",
+  "name":"iPhone 7",
+  "parent_id":"7"
+ }, 
+ {
+  "id":"21",
+  "name":"iPhone 6",
+  "parent_id":"7"
+ }, 
+ {
+  "id":"22",
+  "name":"Samsung J5",
+  "parent_id":"8"
+ }, 
+ {
+  "id":"23",
+  "name":"Samsung C7",
+  "parent_id":"8"
+ }, 
+ {
+  "id":"24",
+  "name":"iPhone 6s",
+  "parent_id":"9"
+ }, 
+ {
+  "id":"25",
+  "name":"iPhone 6",
+  "parent_id":"9"
+ }, 
+ {
+  "id":"26",
+  "name":"Samsung J5",
+  "parent_id":"10"
+ }, 
+ {
+  "id":"27",
+  "name":"Samsung Note 2",
+  "parent_id":"10"
+ },
+ {
+  "id":"28",
+  "name":"Rs. 0 ----- Rs. 85,000",
+  "parent_id":"11"
+ },
+  {
+  "id":"29",
+  "name":"Rs. 0 ----- Rs. 90,000",
+  "parent_id":"12"
+ },
+  {
+  "id":"30",
+  "name":"Rs. 0 ----- Rs. 50,000",
+  "parent_id":"13"
+ },
+  {
+  "id":"",
+  "name":"",
+  "parent_id":""
+ },
+  {
+  "id":"",
+  "name":"",
+  "parent_id":""
+ },
+  {
+  "id":"",
+  "name":"",
+  "parent_id":""
+ },
+  {
+  "id":"",
+  "name":"",
+  "parent_id":""
+ },
+  {
+  "id":"",
+  "name":"",
+  "parent_id":""
+ },
+  {
+  "id":"",
+  "name":"",
+  "parent_id":""
+ },
+  {
+  "id":"",
+  "name":"",
+  "parent_id":""
+ },
+  {
+  "id":"",
+  "name":"",
+  "parent_id":""
+ },
+  {
+  "id":"",
+  "name":"",
+  "parent_id":""
+ }
+]
