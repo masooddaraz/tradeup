@@ -4,9 +4,10 @@
   <title>Dropdown List using Jquery and Ajax</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
 <style>
-/*  #price option:nth-child(1) {
+  #Evaluated-Price option:nth-child(1) {
     display: none;
-}*/
+}
+option#firstoption{display: none;}
 </style>
 
  </head>
@@ -28,19 +29,22 @@
   <br /><br />
   <div class="container" style="max-width:600px;">
    <br /><br />
-   <select name="country" id="country" class="form-control input-lg">
+   <select name="country" id="Tier" class="form-control input-lg">
     <option value="">Select Tier</option>
    </select>
    <br />
-   <select name="state" id="state" class="form-control input-lg">
+   <select name="state" id="Brand" class="form-control input-lg">
     <option value="">Select Brand</option>
    </select>
    <br />
-   <select name="city" id="city" class="form-control input-lg">
+   <select name="city" id="Model" class="form-control input-lg">
     <option value="">Select Model</option>
    </select>
    <br />
-   <p id="price"></p>
+<!--    <select name="price" id="Evaluated-Price" class="form-control input-lg">
+    <option value="" id="firstoption">Evaluated Price</option>
+   </select> -->
+   <p id="Evaluated-Price"></p> 
   </div>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
@@ -50,7 +54,7 @@
   <script>
 $(document).ready(function(){
 
- load_json_data('country');
+ load_json_data('Tier');
 
  function load_json_data(id, parent_id) {
 
@@ -58,8 +62,9 @@ $(document).ready(function(){
   $.getJSON('country_state_city.json', function(data){
 
    html_code += '<option value="">Select '+id+'</option>';
+
    $.each(data, function(key, value){
-    if(id == 'country')
+    if(id == 'Tier')
     {
      if(value.parent_id == '0')
      {
@@ -74,16 +79,17 @@ $(document).ready(function(){
      }
     }
    });
+
    $('#'+id).html(html_code);
   });
 
  }
 
- $(document).on('change', '#country', function(){
+ $(document).on('change', '#Tier', function(){
   var country_id = $(this).val();
   if(country_id != '')
   {
-   load_json_data('state', country_id);
+   load_json_data('Brand', country_id);
   }
   else
   {
@@ -92,11 +98,11 @@ $(document).ready(function(){
   }
  });
 
- $(document).on('change', '#state', function(){
+ $(document).on('change', '#Brand', function(){
   var state_id = $(this).val();
   if(state_id != '')
   {
-   load_json_data('city', state_id);
+   load_json_data('Model', state_id);
 
   }
   else
@@ -107,17 +113,18 @@ $(document).ready(function(){
  });
 
 
-$(document).on('change', '#city', function(){
+$(document).on('change', '#Model', function(){
   var city_id = $(this).val();
   if(city_id != '')
   {
-   load_json_data('price', city_id);
-   $('#price').html('<p>0</p>');
+   var zzz = load_json_data('Evaluated-Price', city_id);
+   $('#Evaluated-Price').html('<p>'+zzz+'</p>');
 
   }
   else
   {
    $('#price').html('<p></p>');
+
   }
  });
 
