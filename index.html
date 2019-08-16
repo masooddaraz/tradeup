@@ -117,8 +117,15 @@ $(document).on('change', '#Model', function(){
   var city_id = $(this).val();
   if(city_id != '')
   {
-   var zzz = load_json_data('Evaluated-Price', city_id);
-   $('#Evaluated-Price').html('<p>'+zzz+'</p>');
+   load_json_data('Evaluated-Price', city_id);
+    if(dropdown.value=="Yes"){
+        alert("Your message")
+    }
+
+
+//   $('#Evaluated-Price').html('<p></p>');
+
+
 
   }
   else
