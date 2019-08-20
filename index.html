@@ -41,10 +41,10 @@ option#firstoption{display: none;}
     <option value="">Select Model</option>
    </select>
    <br />
-<!--    <select name="price" id="Evaluated-Price" class="form-control input-lg">
+   <select name="price" id="Evaluated-Price" class="form-control input-lg">
     <option value="" id="firstoption">Evaluated Price</option>
-   </select> -->
-   <p id="Evaluated-Price"></p> 
+   </select> 
+   <!-- <p id="Evaluated-Price"></p>  -->
   </div>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
@@ -118,11 +118,6 @@ $(document).on('change', '#Model', function(){
   if(city_id != '')
   {
    load_json_data('Evaluated-Price', city_id);
-    // if(dropdown.value=="Yes"){
-    //     alert("Your message")
-    // }
-
-
 //   $('#Evaluated-Price').html('<p></p>');
 
 
