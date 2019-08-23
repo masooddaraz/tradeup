@@ -15,18 +15,38 @@
   "parent_id":"0"
  }, 
  {
-  "id":"4",
+  "id":"01",
   "name":"Apple",
   "parent_id":"1"
  }, 
  {
-  "id":"5",
-  "name":"Samsung",
+  "id":"02",
+  "name":"Honor",
   "parent_id":"1"
  }, 
  {
-  "id":"6",
+  "id":"03",
   "name":"Huawei",
+  "parent_id":"1"
+ }, 
+ {
+  "id":"04",
+  "name":"Infinix",
+  "parent_id":"1"
+ }, 
+ {
+  "id":"05",
+  "name":"MI",
+  "parent_id":"1"
+ }, 
+  {
+  "id":"06",
+  "name":"Samsung",
+  "parent_id":"1"
+ }, 
+  {
+  "id":"07",
+  "name":"Vivo",
   "parent_id":"1"
  }, 
  {
@@ -50,19 +70,44 @@
   "parent_id":"3"
  }, 
  {
-  "id":"11",
+  "id":"011",
+  "name":"iPhone 7 (128)",
+  "parent_id":"01"
+ }, 
+ {
+  "id":"012",
+  "name":"iPhone 7 Plus (128)",
+  "parent_id":"01"
+ }, 
+ {
+  "id":"013",
+  "name":"iPhone 8",
+  "parent_id":"01"
+ }, 
+ {
+   "id":"014",
+  "name":"iPhone 8 Plus",
+  "parent_id":"01"
+ }, 
+ {
+  "id":"015",
   "name":"iPhone X",
-  "parent_id":"4"
+  "parent_id":"01"
  }, 
  {
-  "id":"12",
-  "name":"iPhone 8+",
-  "parent_id":"4"
+  "id":"016",
+  "name":"iPhone XS",
+  "parent_id":"01"
  }, 
- {
-  "id":"13",
-  "name":"iPhone 7+",
-  "parent_id":"4"
+  {
+  "id":"017",
+  "name":"iPhone XR",
+  "parent_id":"01"
+ }, 
+  {
+  "id":"018",
+  "name":"iPhone XS Max (64)",
+  "parent_id":"01"
  }, 
  {
   "id":"14",
@@ -136,18 +181,43 @@
  },
  {
   "id":"28",
-  "name":"Rs. 0 ----- Rs. 85,000",
-  "parent_id":"11"
+  "name":"Up to PKR 35,340.00",
+  "parent_id":"011"
  },
   {
   "id":"29",
-  "name":"Rs. 0 ----- Rs. 90,000",
-  "parent_id":"12"
+  "name":"Up to PKR 46,500.00",
+  "parent_id":"012"
  },
   {
   "id":"30",
-  "name":"Rs. 0 ----- Rs. 50,000",
-  "parent_id":"13"
+  "name":"Up to PKR 49,290.00",
+  "parent_id":"013"
+ },
+  {
+  "id":"28",
+  "name":"Up to PKR 63,240.00",
+  "parent_id":"014"
+ },
+  {
+  "id":"29",
+  "name":"Up to PKR 81,840.00",
+  "parent_id":"015"
+ },
+  {
+  "id":"30",
+  "name":"Up to PKR 102,300.00",
+  "parent_id":"016"
+ },
+   {
+  "id":"29",
+  "name":"Up to PKR 74,400.00",
+  "parent_id":"017"
+ },
+  {
+  "id":"30",
+  "name":"Up to PKR 130,200.00",
+  "parent_id":"018"
  },
   {
   "id":"",
