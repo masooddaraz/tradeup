@@ -1,267 +1,1712 @@
 [
  {
-  "id":"1",
-  "name":"Tier A",
-  "parent_id":"0"
-  }, 
- {
-  "id":"2",
-  "name":"Tier B",
-  "parent_id":"0"
- }, 
- {
-  "id":"3",
-  "name":"Tier C",
-  "parent_id":"0"
- }, 
- {
-  "id":"01",
-  "name":"Apple",
-  "parent_id":"1"
- }, 
- {
-  "id":"02",
-  "name":"Honor",
-  "parent_id":"1"
- }, 
- {
-  "id":"03",
-  "name":"Huawei",
-  "parent_id":"1"
- }, 
- {
-  "id":"04",
-  "name":"Infinix",
-  "parent_id":"1"
- }, 
- {
-  "id":"05",
-  "name":"MI",
-  "parent_id":"1"
- }, 
-  {
-  "id":"06",
-  "name":"Samsung",
-  "parent_id":"1"
- }, 
-  {
-  "id":"07",
-  "name":"Vivo",
-  "parent_id":"1"
- }, 
- {
-  "id":"7",
-  "name":"Apple",
-  "parent_id":"2"
- }, 
- {
-  "id":"8",
-  "name":"Samsung",
-  "parent_id":"2"
- }, 
- {
-  "id":"9",
-  "name":"Apple",
-  "parent_id":"3"
- }, 
- {
-  "id":"10",
-  "name":"Samsung",
-  "parent_id":"3"
- }, 
- {
-  "id":"011",
-  "name":"iPhone 7 (128)",
-  "parent_id":"01"
- }, 
- {
-  "id":"012",
-  "name":"iPhone 7 Plus (128)",
-  "parent_id":"01"
- }, 
- {
-  "id":"013",
-  "name":"iPhone 8",
-  "parent_id":"01"
- }, 
- {
-   "id":"014",
-  "name":"iPhone 8 Plus",
-  "parent_id":"01"
- }, 
- {
-  "id":"015",
-  "name":"iPhone X",
-  "parent_id":"01"
- }, 
- {
-  "id":"016",
-  "name":"iPhone XS",
-  "parent_id":"01"
- }, 
-  {
-  "id":"017",
-  "name":"iPhone XR",
-  "parent_id":"01"
- }, 
-  {
-  "id":"018",
-  "name":"iPhone XS Max (64)",
-  "parent_id":"01"
- }, 
- {
-  "id":"14",
-  "name":"Samsung Edge",
-  "parent_id":"5"
- }, 
- {
-  "id":"15",
-  "name":"Samsung Note 3",
-  "parent_id":"5"
- }, 
- {
-  "id":"16",
-  "name":"Samsung Note 2",
-  "parent_id":"5"
- }, 
- {
-  "id":"17",
-  "name":"Huawei P9",
-  "parent_id":"6"
- }, 
- {
-  "id":"18",
-  "name":"Huawei Y7",
-  "parent_id":"6"
- }, 
- {
-  "id":"19",
-  "name":"Huawei Y9",
-  "parent_id":"6"
- }, 
- {
-  "id":"20",
-  "name":"iPhone 7",
-  "parent_id":"7"
- }, 
- {
-  "id":"21",
-  "name":"iPhone 6",
-  "parent_id":"7"
- }, 
- {
-  "id":"22",
-  "name":"Samsung J5",
-  "parent_id":"8"
- }, 
- {
-  "id":"23",
-  "name":"Samsung C7",
-  "parent_id":"8"
- }, 
- {
-  "id":"24",
-  "name":"iPhone 6s",
-  "parent_id":"9"
- }, 
- {
-  "id":"25",
-  "name":"iPhone 6",
-  "parent_id":"9"
- }, 
- {
-  "id":"26",
-  "name":"Samsung J5",
-  "parent_id":"10"
- }, 
- {
-  "id":"27",
-  "name":"Samsung Note 2",
-  "parent_id":"10"
+   "id": 1,
+   "name": "Tier A",
+   "parent_id": 0
  },
  {
-  "id":"28",
-  "name":"Up to PKR 35,340.00",
-  "parent_id":"011"
+   "id": 2,
+   "name": "Tier B",
+   "parent_id": 0
  },
-  {
-  "id":"29",
-  "name":"Up to PKR 46,500.00",
-  "parent_id":"012"
+ {
+   "id": 3,
+   "name": "Tier C",
+   "parent_id": 0
  },
-  {
-  "id":"30",
-  "name":"Up to PKR 49,290.00",
-  "parent_id":"013"
+ {
+   "id": 4,
+   "name": "Apple",
+   "parent_id": 1
  },
-  {
-  "id":"28",
-  "name":"Up to PKR 63,240.00",
-  "parent_id":"014"
+ {
+   "id": 5,
+   "name": "Honor",
+   "parent_id": 1
  },
-  {
-  "id":"29",
-  "name":"Up to PKR 81,840.00",
-  "parent_id":"015"
+ {
+   "id": 6,
+   "name": "Huawei",
+   "parent_id": 1
  },
-  {
-  "id":"30",
-  "name":"Up to PKR 102,300.00",
-  "parent_id":"016"
+ {
+   "id": 7,
+   "name": "Infinix",
+   "parent_id": 1
  },
-   {
-  "id":"29",
-  "name":"Up to PKR 74,400.00",
-  "parent_id":"017"
+ {
+   "id": 8,
+   "name": "MI",
+   "parent_id": 1
  },
-  {
-  "id":"30",
-  "name":"Up to PKR 130,200.00",
-  "parent_id":"018"
+ {
+   "id": 9,
+   "name": "Samsung",
+   "parent_id": 1
  },
-  {
-  "id":"",
-  "name":"",
-  "parent_id":""
+ {
+   "id": 10,
+   "name": "Vivo",
+   "parent_id": 1
  },
-  {
-  "id":"",
-  "name":"",
-  "parent_id":""
+ {
+   "id": 11,
+   "name": "Apple",
+   "parent_id": 2
  },
-  {
-  "id":"",
-  "name":"",
-  "parent_id":""
+ {
+   "id": 12,
+   "name": "Honor",
+   "parent_id": 2
  },
-  {
-  "id":"",
-  "name":"",
-  "parent_id":""
+ {
+   "id": 13,
+   "name": "Huawei",
+   "parent_id": 2
  },
-  {
-  "id":"",
-  "name":"",
-  "parent_id":""
+ {
+   "id": 14,
+   "name": "Infinix",
+   "parent_id": 2
  },
-  {
-  "id":"",
-  "name":"",
-  "parent_id":""
+ {
+   "id": 15,
+   "name": "MI",
+   "parent_id": 2
  },
-  {
-  "id":"",
-  "name":"",
-  "parent_id":""
+ {
+   "id": 16,
+   "name": "Samsung",
+   "parent_id": 2
  },
-  {
-  "id":"",
-  "name":"",
-  "parent_id":""
+ {
+   "id": 17,
+   "name": "Vivo",
+   "parent_id": 2
  },
-  {
-  "id":"",
-  "name":"",
-  "parent_id":""
+ {
+   "id": 18,
+   "name": "Apple",
+   "parent_id": 3
+ },
+ {
+   "id": 19,
+   "name": "Honor",
+   "parent_id": 3
+ },
+ {
+   "id": 20,
+   "name": "Huawei",
+   "parent_id": 3
+ },
+ {
+   "id": 21,
+   "name": "Infinix",
+   "parent_id": 3
+ },
+ {
+   "id": 22,
+   "name": "MI",
+   "parent_id": 3
+ },
+ {
+   "id": 23,
+   "name": "Samsung",
+   "parent_id": 3
+ },
+ {
+   "id": 24,
+   "name": "Vivo",
+   "parent_id": 3
+ },
+ {
+   "id": 25,
+   "name": "iPhone 7 (128)",
+   "parent_id": 4
+ },
+ {
+   "id": 26,
+   "name": "iPhone 7 Plus (128)",
+   "parent_id": 4
+ },
+ {
+   "id": 27,
+   "name": "iPhone 8",
+   "parent_id": 4
+ },
+ {
+   "id": 28,
+   "name": "iPhone 8 Plus",
+   "parent_id": 4
+ },
+ {
+   "id": 29,
+   "name": "iPhone X",
+   "parent_id": 4
+ },
+ {
+   "id": 30,
+   "name": "iPhone XS",
+   "parent_id": 4
+ },
+ {
+   "id": 31,
+   "name": "iPhone XR",
+   "parent_id": 4
+ },
+ {
+   "id": 32,
+   "name": "iPhone XS Max (64)",
+   "parent_id": 4
+ },
+ {
+   "id": 33,
+   "name": "Honor 8C",
+   "parent_id": 5
+ },
+ {
+   "id": 34,
+   "name": "Honor 8X 4/128",
+   "parent_id": 5
+ },
+ {
+   "id": 35,
+   "name": "Honor 10 Lite",
+   "parent_id": 5
+ },
+ {
+   "id": 36,
+   "name": "Honor 7S",
+   "parent_id": 5
+ },
+ {
+   "id": 37,
+   "name": "Honor 7C",
+   "parent_id": 5
+ },
+ {
+   "id": 38,
+   "name": "Honor 8X 4/64",
+   "parent_id": 5
+ },
+ {
+   "id": 39,
+   "name": "Honor 10",
+   "parent_id": 5
+ },
+ {
+   "id": 40,
+   "name": "Honor Play",
+   "parent_id": 5
+ },
+ {
+   "id": 41,
+   "name": "Huawei Y6 Prime '19",
+   "parent_id": 6
+ },
+ {
+   "id": 42,
+   "name": "Huawei P30 Lite",
+   "parent_id": 6
+ },
+ {
+   "id": 43,
+   "name": "Huawei Y7 Prime 2019",
+   "parent_id": 6
+ },
+ {
+   "id": 44,
+   "name": "Huawei Mate 9",
+   "parent_id": 6
+ },
+ {
+   "id": 45,
+   "name": "Huawei Y9 2019",
+   "parent_id": 6
+ },
+ {
+   "id": 46,
+   "name": "Huawei Y3 2017",
+   "parent_id": 6
+ },
+ {
+   "id": 47,
+   "name": "Huawei P30",
+   "parent_id": 6
+ },
+ {
+   "id": 48,
+   "name": "Huawei P30 Pro",
+   "parent_id": 6
+ },
+ {
+   "id": 49,
+   "name": "Huawei Y5 Prime 2018",
+   "parent_id": 6
+ },
+ {
+   "id": 50,
+   "name": "Huawei Y9 Prime 2018",
+   "parent_id": 6
+ },
+ {
+   "id": 51,
+   "name": "Huawei Mate 10 Lite",
+   "parent_id": 6
+ },
+ {
+   "id": 52,
+   "name": "Huawei Mate 20 Pro",
+   "parent_id": 6
+ },
+ {
+   "id": 53,
+   "name": "Infinix Hot S3X 4/64",
+   "parent_id": 7
+ },
+ {
+   "id": 54,
+   "name": "Infinix S3X 3/32",
+   "parent_id": 7
+ },
+ {
+   "id": 55,
+   "name": "Infinix Smart 2 HD",
+   "parent_id": 7
+ },
+ {
+   "id": 56,
+   "name": "Mi Note 7",
+   "parent_id": 8
+ },
+ {
+   "id": 57,
+   "name": "Mi Pocophone F1",
+   "parent_id": 8
+ },
+ {
+   "id": 58,
+   "name": "Mi A2 Lite",
+   "parent_id": 8
+ },
+ {
+   "id": 59,
+   "name": "Samsung A30",
+   "parent_id": 9
+ },
+ {
+   "id": 60,
+   "name": "Samsung A50",
+   "parent_id": 9
+ },
+ {
+   "id": 61,
+   "name": "Samsung J6 Plus",
+   "parent_id": 9
+ },
+ {
+   "id": 62,
+   "name": "Samsung A70",
+   "parent_id": 9
+ },
+ {
+   "id": 63,
+   "name": "Samsung S10 Plus",
+   "parent_id": 9
+ },
+ {
+   "id": 64,
+   "name": "Samsung J4 Core",
+   "parent_id": 9
+ },
+ {
+   "id": 65,
+   "name": "Samsung J4",
+   "parent_id": 9
+ },
+ {
+   "id": 66,
+   "name": "Samsung J4 Plus",
+   "parent_id": 9
+ },
+ {
+   "id": 67,
+   "name": "Samsung J6",
+   "parent_id": 9
+ },
+ {
+   "id": 68,
+   "name": "Samsung A7",
+   "parent_id": 9
+ },
+ {
+   "id": 69,
+   "name": "Samsung A3",
+   "parent_id": 9
+ },
+ {
+   "id": 70,
+   "name": "Samsung S10",
+   "parent_id": 9
+ },
+ {
+   "id": 71,
+   "name": "Samsung S9",
+   "parent_id": 9
+ },
+ {
+   "id": 72,
+   "name": "Samsung S9 Plus",
+   "parent_id": 9
+ },
+ {
+   "id": 73,
+   "name": "Samsunf S8",
+   "parent_id": 9
+ },
+ {
+   "id": 74,
+   "name": "Samsung S8 Plus",
+   "parent_id": 9
+ },
+ {
+   "id": 75,
+   "name": "Vivo V15 Pro",
+   "parent_id": 10
+ },
+ {
+   "id": 76,
+   "name": "Vivo V15",
+   "parent_id": 10
+ },
+ {
+   "id": 77,
+   "name": "Vivo V11",
+   "parent_id": 10
+ },
+ {
+   "id": 78,
+   "name": "Up to PKR       35340",
+   "parent_id": 25
+ },
+ {
+   "id": 79,
+   "name": "Up to PKR       46500",
+   "parent_id": 26
+ },
+ {
+   "id": 80,
+   "name": "Up to PKR       49290",
+   "parent_id": 27
+ },
+ {
+   "id": 81,
+   "name": "Up to PKR       63240",
+   "parent_id": 28
+ },
+ {
+   "id": 82,
+   "name": "Up to PKR       81840",
+   "parent_id": 29
+ },
+ {
+   "id": 83,
+   "name": "Up to PKR       102300",
+   "parent_id": 30
+ },
+ {
+   "id": 84,
+   "name": "Up to PKR       74400",
+   "parent_id": 31
+ },
+ {
+   "id": 85,
+   "name": "Up to PKR       130200",
+   "parent_id": 32
+ },
+ {
+   "id": 86,
+   "name": "Up to PKR       18600",
+   "parent_id": 33
+ },
+ {
+   "id": 87,
+   "name": "Up to PKR       27900",
+   "parent_id": 34
+ },
+ {
+   "id": 88,
+   "name": "Up to PKR       24180",
+   "parent_id": 35
+ },
+ {
+   "id": 89,
+   "name": "Up to PKR       11160",
+   "parent_id": 36
+ },
+ {
+   "id": 90,
+   "name": "Up to PKR       13950",
+   "parent_id": 37
+ },
+ {
+   "id": 91,
+   "name": "Up to PKR       20460",
+   "parent_id": 38
+ },
+ {
+   "id": 92,
+   "name": "Up to PKR       35340",
+   "parent_id": 39
+ },
+ {
+   "id": 93,
+   "name": "Up to PKR       26040",
+   "parent_id": 40
+ },
+ {
+   "id": 94,
+   "name": "Up to PKR       14880",
+   "parent_id": 41
+ },
+ {
+   "id": 95,
+   "name": "Up to PKR       29760",
+   "parent_id": 42
+ },
+ {
+   "id": 96,
+   "name": "Up to PKR       18600",
+   "parent_id": 43
+ },
+ {
+   "id": 97,
+   "name": "Up to PKR       32550",
+   "parent_id": 44
+ },
+ {
+   "id": 98,
+   "name": "Up to PKR       20460",
+   "parent_id": 45
+ },
+ {
+   "id": 99,
+   "name": "Up to PKR       7440",
+   "parent_id": 46
+ },
+ {
+   "id": 100,
+   "name": "Up to PKR       80910",
+   "parent_id": 47
+ },
+ {
+   "id": 101,
+   "name": "Up to PKR       102300",
+   "parent_id": 48
+ },
+ {
+   "id": 102,
+   "name": "Up to PKR       9300",
+   "parent_id": 49
+ },
+ {
+   "id": 103,
+   "name": "Up to PKR       23250",
+   "parent_id": 50
+ },
+ {
+   "id": 104,
+   "name": "Up to PKR       19530",
+   "parent_id": 51
+ },
+ {
+   "id": 105,
+   "name": "Up to PKR       88350",
+   "parent_id": 52
+ },
+ {
+   "id": 106,
+   "name": "Up to PKR       13950",
+   "parent_id": 53
+ },
+ {
+   "id": 107,
+   "name": "Up to PKR       12090",
+   "parent_id": 54
+ },
+ {
+   "id": 108,
+   "name": "Up to PKR       7440",
+   "parent_id": 55
+ },
+ {
+   "id": 109,
+   "name": "Up to PKR       27900",
+   "parent_id": 56
+ },
+ {
+   "id": 110,
+   "name": "Up to PKR       32550",
+   "parent_id": 57
+ },
+ {
+   "id": 111,
+   "name": "Up to PKR       15810",
+   "parent_id": 58
+ },
+ {
+   "id": 112,
+   "name": "Up to PKR       27900",
+   "parent_id": 59
+ },
+ {
+   "id": 113,
+   "name": "Up to PKR       37200",
+   "parent_id": 60
+ },
+ {
+   "id": 114,
+   "name": "Up to PKR       18600",
+   "parent_id": 61
+ },
+ {
+   "id": 115,
+   "name": "Up to PKR       48360",
+   "parent_id": 62
+ },
+ {
+   "id": 116,
+   "name": "Up to PKR       102300",
+   "parent_id": 63
+ },
+ {
+   "id": 117,
+   "name": "Up to PKR       11160",
+   "parent_id": 64
+ },
+ {
+   "id": 118,
+   "name": "Up to PKR       12090",
+   "parent_id": 65
+ },
+ {
+   "id": 119,
+   "name": "Up to PKR       14880",
+   "parent_id": 66
+ },
+ {
+   "id": 120,
+   "name": "Up to PKR       15810",
+   "parent_id": 67
+ },
+ {
+   "id": 121,
+   "name": "Up to PKR       18600",
+   "parent_id": 68
+ },
+ {
+   "id": 122,
+   "name": "Up to PKR       11160",
+   "parent_id": 69
+ },
+ {
+   "id": 123,
+   "name": "Up to PKR       83700",
+   "parent_id": 70
+ },
+ {
+   "id": 124,
+   "name": "Up to PKR       41850",
+   "parent_id": 71
+ },
+ {
+   "id": 125,
+   "name": "Up to PKR       55800",
+   "parent_id": 72
+ },
+ {
+   "id": 126,
+   "name": "Up to PKR       30690",
+   "parent_id": 73
+ },
+ {
+   "id": 127,
+   "name": "Up to PKR       37200",
+   "parent_id": 74
+ },
+ {
+   "id": 128,
+   "name": "Up to PKR       41850",
+   "parent_id": 75
+ },
+ {
+   "id": 129,
+   "name": "Up to PKR       32550",
+   "parent_id": 76
+ },
+ {
+   "id": 130,
+   "name": "Up to PKR       29760",
+   "parent_id": 77
+ },
+ {
+   "id": 131,
+   "name": "iPhone 7 (128)",
+   "parent_id": 11
+ },
+ {
+   "id": 132,
+   "name": "iPhone 7 Plus (128)",
+   "parent_id": 11
+ },
+ {
+   "id": 133,
+   "name": "iPhone 8",
+   "parent_id": 11
+ },
+ {
+   "id": 134,
+   "name": "iPhone 8 Plus",
+   "parent_id": 11
+ },
+ {
+   "id": 135,
+   "name": "iPhone X",
+   "parent_id": 11
+ },
+ {
+   "id": 136,
+   "name": "iPhone XS",
+   "parent_id": 11
+ },
+ {
+   "id": 137,
+   "name": "iPhone XR",
+   "parent_id": 11
+ },
+ {
+   "id": 138,
+   "name": "iPhone XS Max (64)",
+   "parent_id": 11
+ },
+ {
+   "id": 139,
+   "name": "Honor 8C",
+   "parent_id": 12
+ },
+ {
+   "id": 140,
+   "name": "Honor 8X 4/128",
+   "parent_id": 12
+ },
+ {
+   "id": 141,
+   "name": "Honor 10 Lite",
+   "parent_id": 12
+ },
+ {
+   "id": 142,
+   "name": "Honor 7S",
+   "parent_id": 12
+ },
+ {
+   "id": 143,
+   "name": "Honor 7C",
+   "parent_id": 12
+ },
+ {
+   "id": 144,
+   "name": "Honor 8X 4/64",
+   "parent_id": 12
+ },
+ {
+   "id": 145,
+   "name": "Honor 10",
+   "parent_id": 12
+ },
+ {
+   "id": 146,
+   "name": "Honor Play",
+   "parent_id": 12
+ },
+ {
+   "id": 147,
+   "name": "Huawei Y6 Prime '19",
+   "parent_id": 13
+ },
+ {
+   "id": 148,
+   "name": "Huawei P30 Lite",
+   "parent_id": 13
+ },
+ {
+   "id": 149,
+   "name": "Huawei Y7 Prime 2019",
+   "parent_id": 13
+ },
+ {
+   "id": 150,
+   "name": "Huawei Mate 9",
+   "parent_id": 13
+ },
+ {
+   "id": 151,
+   "name": "Huawei Y9 2019",
+   "parent_id": 13
+ },
+ {
+   "id": 152,
+   "name": "Huawei Y3 2017",
+   "parent_id": 13
+ },
+ {
+   "id": 153,
+   "name": "Huawei P30",
+   "parent_id": 13
+ },
+ {
+   "id": 154,
+   "name": "Huawei P30 Pro",
+   "parent_id": 13
+ },
+ {
+   "id": 155,
+   "name": "Huawei Y5 Prime 2018",
+   "parent_id": 13
+ },
+ {
+   "id": 156,
+   "name": "Huawei Y9 Prime 2018",
+   "parent_id": 13
+ },
+ {
+   "id": 157,
+   "name": "Huawei Mate 10 Lite",
+   "parent_id": 13
+ },
+ {
+   "id": 158,
+   "name": "Huawei Mate 20 Pro",
+   "parent_id": 13
+ },
+ {
+   "id": 159,
+   "name": "Infinix Hot S3X 4/64",
+   "parent_id": 14
+ },
+ {
+   "id": 160,
+   "name": "Infinix S3X 3/32",
+   "parent_id": 14
+ },
+ {
+   "id": 161,
+   "name": "Infinix Smart 2 HD",
+   "parent_id": 14
+ },
+ {
+   "id": 162,
+   "name": "Mi Note 7",
+   "parent_id": 15
+ },
+ {
+   "id": 163,
+   "name": "Mi Pocophone F1",
+   "parent_id": 15
+ },
+ {
+   "id": 164,
+   "name": "Mi A2 Lite",
+   "parent_id": 15
+ },
+ {
+   "id": 165,
+   "name": "Samsung A30",
+   "parent_id": 16
+ },
+ {
+   "id": 166,
+   "name": "Samsung A50",
+   "parent_id": 16
+ },
+ {
+   "id": 167,
+   "name": "Samsung J6 Plus",
+   "parent_id": 16
+ },
+ {
+   "id": 168,
+   "name": "Samsung A70",
+   "parent_id": 16
+ },
+ {
+   "id": 169,
+   "name": "Samsung S10 Plus",
+   "parent_id": 16
+ },
+ {
+   "id": 170,
+   "name": "Samsung J4 Core",
+   "parent_id": 16
+ },
+ {
+   "id": 171,
+   "name": "Samsung J4",
+   "parent_id": 16
+ },
+ {
+   "id": 172,
+   "name": "Samsung J4 Plus",
+   "parent_id": 16
+ },
+ {
+   "id": 173,
+   "name": "Samsung J6",
+   "parent_id": 16
+ },
+ {
+   "id": 174,
+   "name": "Samsung A7",
+   "parent_id": 16
+ },
+ {
+   "id": 175,
+   "name": "Samsung A3",
+   "parent_id": 16
+ },
+ {
+   "id": 176,
+   "name": "Samsung S10",
+   "parent_id": 16
+ },
+ {
+   "id": 177,
+   "name": "Samsung S9",
+   "parent_id": 16
+ },
+ {
+   "id": 178,
+   "name": "Samsung S9 Plus",
+   "parent_id": 16
+ },
+ {
+   "id": 179,
+   "name": "Samsunf S8",
+   "parent_id": 16
+ },
+ {
+   "id": 180,
+   "name": "Samsung S8 Plus",
+   "parent_id": 16
+ },
+ {
+   "id": 181,
+   "name": "Vivo V15 Pro",
+   "parent_id": 17
+ },
+ {
+   "id": 182,
+   "name": "Vivo V15",
+   "parent_id": 17
+ },
+ {
+   "id": 183,
+   "name": "Vivo V11",
+   "parent_id": 17
+ },
+ {
+   "id": 184,
+   "name": "Up to PKR       26040",
+   "parent_id": 131
+ },
+ {
+   "id": 185,
+   "name": "Up to PKR       32550",
+   "parent_id": 132
+ },
+ {
+   "id": 186,
+   "name": "Up to PKR       35340",
+   "parent_id": 133
+ },
+ {
+   "id": 187,
+   "name": "Up to PKR       46500",
+   "parent_id": 134
+ },
+ {
+   "id": 188,
+   "name": "Up to PKR       62310",
+   "parent_id": 135
+ },
+ {
+   "id": 189,
+   "name": "Up to PKR       79050",
+   "parent_id": 136
+ },
+ {
+   "id": 190,
+   "name": "Up to PKR       55800",
+   "parent_id": 137
+ },
+ {
+   "id": 191,
+   "name": "Up to PKR       102300",
+   "parent_id": 138
+ },
+ {
+   "id": 192,
+   "name": "Up to PKR       13950",
+   "parent_id": 139
+ },
+ {
+   "id": 193,
+   "name": "Up to PKR       19530",
+   "parent_id": 140
+ },
+ {
+   "id": 194,
+   "name": "Up to PKR       15810",
+   "parent_id": 141
+ },
+ {
+   "id": 195,
+   "name": "Up to PKR       8370",
+   "parent_id": 142
+ },
+ {
+   "id": 196,
+   "name": "Up to PKR       10230",
+   "parent_id": 143
+ },
+ {
+   "id": 197,
+   "name": "Up to PKR       14880",
+   "parent_id": 144
+ },
+ {
+   "id": 198,
+   "name": "Up to PKR       26040",
+   "parent_id": 145
+ },
+ {
+   "id": 199,
+   "name": "Up to PKR       18600",
+   "parent_id": 146
+ },
+ {
+   "id": 200,
+   "name": "Up to PKR       9300",
+   "parent_id": 147
+ },
+ {
+   "id": 201,
+   "name": "Up to PKR       23250",
+   "parent_id": 148
+ },
+ {
+   "id": 202,
+   "name": "Up to PKR       13950",
+   "parent_id": 149
+ },
+ {
+   "id": 203,
+   "name": "Up to PKR       18600",
+   "parent_id": 150
+ },
+ {
+   "id": 204,
+   "name": "Up to PKR       14880",
+   "parent_id": 151
+ },
+ {
+   "id": 205,
+   "name": "Thank you for your interest, Unfortunately, we cannot accept this item.",
+   "parent_id": 152
+ },
+ {
+   "id": 206,
+   "name": "Up to PKR       46500",
+   "parent_id": 153
+ },
+ {
+   "id": 207,
+   "name": "Up to PKR       74400",
+   "parent_id": 154
+ },
+ {
+   "id": 208,
+   "name": "Up to PKR       5580",
+   "parent_id": 155
+ },
+ {
+   "id": 209,
+   "name": "Up to PKR       14880",
+   "parent_id": 156
+ },
+ {
+   "id": 210,
+   "name": "Up to PKR       12090",
+   "parent_id": 157
+ },
+ {
+   "id": 211,
+   "name": "Up to PKR       60450",
+   "parent_id": 158
+ },
+ {
+   "id": 212,
+   "name": "Thank you for your interest, Unfortunately, we cannot accept this item.",
+   "parent_id": 159
+ },
+ {
+   "id": 213,
+   "name": "Thank you for your interest, Unfortunately, we cannot accept this item.",
+   "parent_id": 160
+ },
+ {
+   "id": 214,
+   "name": "Thank you for your interest, Unfortunately, we cannot accept this item.",
+   "parent_id": 161
+ },
+ {
+   "id": 215,
+   "name": "Up to PKR       18600",
+   "parent_id": 162
+ },
+ {
+   "id": 216,
+   "name": "Up to PKR       23250",
+   "parent_id": 163
+ },
+ {
+   "id": 217,
+   "name": "Thank you for your interest, Unfortunately, we cannot accept this item.",
+   "parent_id": 164
+ },
+ {
+   "id": 218,
+   "name": "Up to PKR       18600",
+   "parent_id": 165
+ },
+ {
+   "id": 219,
+   "name": "Up to PKR       23250",
+   "parent_id": 166
+ },
+ {
+   "id": 220,
+   "name": "Up to PKR       14880",
+   "parent_id": 167
+ },
+ {
+   "id": 221,
+   "name": "Up to PKR       32550",
+   "parent_id": 168
+ },
+ {
+   "id": 222,
+   "name": "Up to PKR       83700",
+   "parent_id": 169
+ },
+ {
+   "id": 223,
+   "name": "Up to PKR       7440",
+   "parent_id": 170
+ },
+ {
+   "id": 224,
+   "name": "Up to PKR       8370",
+   "parent_id": 171
+ },
+ {
+   "id": 225,
+   "name": "Up to PKR       10230",
+   "parent_id": 172
+ },
+ {
+   "id": 226,
+   "name": "Up to PKR       11160",
+   "parent_id": 173
+ },
+ {
+   "id": 227,
+   "name": "Up to PKR       9300",
+   "parent_id": 174
+ },
+ {
+   "id": 228,
+   "name": "Up to PKR       6510",
+   "parent_id": 175
+ },
+ {
+   "id": 229,
+   "name": "Up to PKR       74400",
+   "parent_id": 176
+ },
+ {
+   "id": 230,
+   "name": "Up to PKR       32550",
+   "parent_id": 177
+ },
+ {
+   "id": 231,
+   "name": "Up to PKR       41850",
+   "parent_id": 178
+ },
+ {
+   "id": 232,
+   "name": "Up to PKR       21390",
+   "parent_id": 179
+ },
+ {
+   "id": 233,
+   "name": "Up to PKR       27900",
+   "parent_id": 180
+ },
+ {
+   "id": 234,
+   "name": "Up to PKR       23250",
+   "parent_id": 181
+ },
+ {
+   "id": 235,
+   "name": "Up to PKR       15810",
+   "parent_id": 182
+ },
+ {
+   "id": 236,
+   "name": "Up to PKR       16740",
+   "parent_id": 183
+ },
+ {
+   "id": 237,
+   "name": "iPhone 7 (128)",
+   "parent_id": 18
+ },
+ {
+   "id": 238,
+   "name": "iPhone 7 Plus (128)",
+   "parent_id": 18
+ },
+ {
+   "id": 239,
+   "name": "iPhone 8",
+   "parent_id": 18
+ },
+ {
+   "id": 240,
+   "name": "iPhone 8 Plus",
+   "parent_id": 18
+ },
+ {
+   "id": 241,
+   "name": "iPhone X",
+   "parent_id": 18
+ },
+ {
+   "id": 242,
+   "name": "iPhone XS",
+   "parent_id": 18
+ },
+ {
+   "id": 243,
+   "name": "iPhone XR",
+   "parent_id": 18
+ },
+ {
+   "id": 244,
+   "name": "iPhone XS Max (64)",
+   "parent_id": 18
+ },
+ {
+   "id": 245,
+   "name": "Honor 8C",
+   "parent_id": 19
+ },
+ {
+   "id": 246,
+   "name": "Honor 8X 4/128",
+   "parent_id": 19
+ },
+ {
+   "id": 247,
+   "name": "Honor 10 Lite",
+   "parent_id": 19
+ },
+ {
+   "id": 248,
+   "name": "Honor 7S",
+   "parent_id": 19
+ },
+ {
+   "id": 249,
+   "name": "Honor 7C",
+   "parent_id": 19
+ },
+ {
+   "id": 250,
+   "name": "Honor 8X 4/64",
+   "parent_id": 19
+ },
+ {
+   "id": 251,
+   "name": "Honor 10",
+   "parent_id": 19
+ },
+ {
+   "id": 252,
+   "name": "Honor Play",
+   "parent_id": 19
+ },
+ {
+   "id": 253,
+   "name": "Huawei Y6 Prime '19",
+   "parent_id": 20
+ },
+ {
+   "id": 254,
+   "name": "Huawei P30 Lite",
+   "parent_id": 20
+ },
+ {
+   "id": 255,
+   "name": "Huawei Y7 Prime 2019",
+   "parent_id": 20
+ },
+ {
+   "id": 256,
+   "name": "Huawei Mate 9",
+   "parent_id": 20
+ },
+ {
+   "id": 257,
+   "name": "Huawei Y9 2019",
+   "parent_id": 20
+ },
+ {
+   "id": 258,
+   "name": "Huawei Y3 2017",
+   "parent_id": 20
+ },
+ {
+   "id": 259,
+   "name": "Huawei P30",
+   "parent_id": 20
+ },
+ {
+   "id": 260,
+   "name": "Huawei P30 Pro",
+   "parent_id": 20
+ },
+ {
+   "id": 261,
+   "name": "Huawei Y5 Prime 2018",
+   "parent_id": 20
+ },
+ {
+   "id": 262,
+   "name": "Huawei Y9 Prime 2018",
+   "parent_id": 20
+ },
+ {
+   "id": 263,
+   "name": "Huawei Mate 10 Lite",
+   "parent_id": 20
+ },
+ {
+   "id": 264,
+   "name": "Huawei Mate 20 Pro",
+   "parent_id": 20
+ },
+ {
+   "id": 265,
+   "name": "Infinix Hot S3X 4/64",
+   "parent_id": 21
+ },
+ {
+   "id": 266,
+   "name": "Infinix S3X 3/32",
+   "parent_id": 21
+ },
+ {
+   "id": 267,
+   "name": "Infinix Smart 2 HD",
+   "parent_id": 21
+ },
+ {
+   "id": 268,
+   "name": "Mi Note 7",
+   "parent_id": 22
+ },
+ {
+   "id": 269,
+   "name": "Mi Pocophone F1",
+   "parent_id": 22
+ },
+ {
+   "id": 270,
+   "name": "Mi A2 Lite",
+   "parent_id": 22
+ },
+ {
+   "id": 271,
+   "name": "Samsung A30",
+   "parent_id": 23
+ },
+ {
+   "id": 272,
+   "name": "Samsung A50",
+   "parent_id": 23
+ },
+ {
+   "id": 273,
+   "name": "Samsung J6 Plus",
+   "parent_id": 23
+ },
+ {
+   "id": 274,
+   "name": "Samsung A70",
+   "parent_id": 23
+ },
+ {
+   "id": 275,
+   "name": "Samsung S10 Plus",
+   "parent_id": 23
+ },
+ {
+   "id": 276,
+   "name": "Samsung J4 Core",
+   "parent_id": 23
+ },
+ {
+   "id": 277,
+   "name": "Samsung J4",
+   "parent_id": 23
+ },
+ {
+   "id": 278,
+   "name": "Samsung J4 Plus",
+   "parent_id": 23
+ },
+ {
+   "id": 279,
+   "name": "Samsung J6",
+   "parent_id": 23
+ },
+ {
+   "id": 280,
+   "name": "Samsung A7",
+   "parent_id": 23
+ },
+ {
+   "id": 281,
+   "name": "Samsung A3",
+   "parent_id": 23
+ },
+ {
+   "id": 282,
+   "name": "Samsung S10",
+   "parent_id": 23
+ },
+ {
+   "id": 283,
+   "name": "Samsung S9",
+   "parent_id": 23
+ },
+ {
+   "id": 284,
+   "name": "Samsung S9 Plus",
+   "parent_id": 23
+ },
+ {
+   "id": 285,
+   "name": "Samsunf S8",
+   "parent_id": 23
+ },
+ {
+   "id": 286,
+   "name": "Samsung S8 Plus",
+   "parent_id": 23
+ },
+ {
+   "id": 287,
+   "name": "Vivo V15 Pro",
+   "parent_id": 24
+ },
+ {
+   "id": 288,
+   "name": "Vivo V15",
+   "parent_id": 24
+ },
+ {
+   "id": 289,
+   "name": "Vivo V11",
+   "parent_id": 24
+ },
+ {
+   "id": 290,
+   "name": "Up to PKR       13950",
+   "parent_id": 237
+ },
+ {
+   "id": 291,
+   "name": "Up to PKR       18600",
+   "parent_id": 238
+ },
+ {
+   "id": 292,
+   "name": "Up to PKR       23250",
+   "parent_id": 239
+ },
+ {
+   "id": 293,
+   "name": "Up to PKR       27900",
+   "parent_id": 240
+ },
+ {
+   "id": 294,
+   "name": "Up to PKR       32550",
+   "parent_id": 241
+ },
+ {
+   "id": 295,
+   "name": "Up to PKR       32550",
+   "parent_id": 242
+ },
+ {
+   "id": 296,
+   "name": "Up to PKR       27900",
+   "parent_id": 243
+ },
+ {
+   "id": 297,
+   "name": "Up to PKR       37200",
+   "parent_id": 244
+ },
+ {
+   "id": 298,
+   "name": "Up to PKR       6510",
+   "parent_id": 245
+ },
+ {
+   "id": 299,
+   "name": "Up to PKR       8370",
+   "parent_id": 246
+ },
+ {
+   "id": 300,
+   "name": "Up to PKR       7440",
+   "parent_id": 247
+ },
+ {
+   "id": 301,
+   "name": "Up to PKR       4650",
+   "parent_id": 248
+ },
+ {
+   "id": 302,
+   "name": "Up to PKR       6510",
+   "parent_id": 249
+ },
+ {
+   "id": 303,
+   "name": "Up to PKR       8370",
+   "parent_id": 250
+ },
+ {
+   "id": 304,
+   "name": "Up to PKR       16740",
+   "parent_id": 251
+ },
+ {
+   "id": 305,
+   "name": "Up to PKR       9300",
+   "parent_id": 252
+ },
+ {
+   "id": 306,
+   "name": "Up to PKR       5580",
+   "parent_id": 253
+ },
+ {
+   "id": 307,
+   "name": "Up to PKR       9300",
+   "parent_id": 254
+ },
+ {
+   "id": 308,
+   "name": "Up to PKR       8370",
+   "parent_id": 255
+ },
+ {
+   "id": 309,
+   "name": "Up to PKR       7440",
+   "parent_id": 256
+ },
+ {
+   "id": 310,
+   "name": "Up to PKR       8370",
+   "parent_id": 257
+ },
+ {
+   "id": 311,
+   "name": "Thank you for your interest, Unfortunately, we cannot accept this item.",
+   "parent_id": 258
+ },
+ {
+   "id": 312,
+   "name": "Up to PKR       18600",
+   "parent_id": 259
+ },
+ {
+   "id": 313,
+   "name": "Up to PKR       23250",
+   "parent_id": 260
+ },
+ {
+   "id": 314,
+   "name": "Up to PKR       2790",
+   "parent_id": 261
+ },
+ {
+   "id": 315,
+   "name": "Up to PKR       9300",
+   "parent_id": 262
+ },
+ {
+   "id": 316,
+   "name": "Up to PKR       4650",
+   "parent_id": 263
+ },
+ {
+   "id": 317,
+   "name": "Up to PKR       32550",
+   "parent_id": 264
+ },
+ {
+   "id": 318,
+   "name": "Thank you for your interest, Unfortunately, we cannot accept this item.",
+   "parent_id": 265
+ },
+ {
+   "id": 319,
+   "name": "Thank you for your interest, Unfortunately, we cannot accept this item.",
+   "parent_id": 266
+ },
+ {
+   "id": 320,
+   "name": "Thank you for your interest, Unfortunately, we cannot accept this item.",
+   "parent_id": 267
+ },
+ {
+   "id": 321,
+   "name": "Up to PKR       4650",
+   "parent_id": 268
+ },
+ {
+   "id": 322,
+   "name": "Up to PKR       4650",
+   "parent_id": 269
+ },
+ {
+   "id": 323,
+   "name": "Thank you for your interest, Unfortunately, we cannot accept this item.",
+   "parent_id": 270
+ },
+ {
+   "id": 324,
+   "name": "Up to PKR       7440",
+   "parent_id": 271
+ },
+ {
+   "id": 325,
+   "name": "Up to PKR       9300",
+   "parent_id": 272
+ },
+ {
+   "id": 326,
+   "name": "Up to PKR       8370",
+   "parent_id": 273
+ },
+ {
+   "id": 327,
+   "name": "Up to PKR       13950",
+   "parent_id": 274
+ },
+ {
+   "id": 328,
+   "name": "Up to PKR       46500",
+   "parent_id": 275
+ },
+ {
+   "id": 329,
+   "name": "Up to PKR       3720",
+   "parent_id": 276
+ },
+ {
+   "id": 330,
+   "name": "Up to PKR       3720",
+   "parent_id": 277
+ },
+ {
+   "id": 331,
+   "name": "Up to PKR       6510",
+   "parent_id": 278
+ },
+ {
+   "id": 332,
+   "name": "Up to PKR       6510",
+   "parent_id": 279
+ },
+ {
+   "id": 333,
+   "name": "Up to PKR       2790",
+   "parent_id": 280
+ },
+ {
+   "id": 334,
+   "name": "Up to PKR       3720",
+   "parent_id": 281
+ },
+ {
+   "id": 335,
+   "name": "Up to PKR       37200",
+   "parent_id": 282
+ },
+ {
+   "id": 336,
+   "name": "Up to PKR       13950",
+   "parent_id": 283
+ },
+ {
+   "id": 337,
+   "name": "Up to PKR       18600",
+   "parent_id": 284
+ },
+ {
+   "id": 338,
+   "name": "Up to PKR       11160",
+   "parent_id": 285
+ },
+ {
+   "id": 339,
+   "name": "Up to PKR       13950",
+   "parent_id": 286
+ },
+ {
+   "id": 340,
+   "name": "Up to PKR       9300",
+   "parent_id": 287
+ },
+ {
+   "id": 341,
+   "name": "Up to PKR       7440",
+   "parent_id": 288
+ },
+ {
+   "id": 342,
+   "name": "Up to PKR       6510",
+   "parent_id": 289
  }
 ]
